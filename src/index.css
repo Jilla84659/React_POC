@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.store-filter-button {
+  cursor: pointer;
+  padding: 0.2em;
+  margin: 0.2em;
+}
